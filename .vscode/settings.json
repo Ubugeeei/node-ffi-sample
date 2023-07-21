@@ -1,0 +1,17 @@
+{
+  "terminal.integrated.profiles.osx": {
+    "rosetta": {
+      "path": "arch",
+      "args": [
+        "-x86_64",
+        "fish",
+        "-l"
+      ],
+      "overrideName": true
+    },
+  },
+  "cSpell.words": [
+    "dylib",
+    "napi"
+  ],
+}
